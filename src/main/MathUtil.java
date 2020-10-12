@@ -20,6 +20,6 @@ public class MathUtil {
 	}
 	
 	public double circ(double d) {
-		return 2*d*Math.PI;
+		return (2*d*Math.PI);
 	}
 }
